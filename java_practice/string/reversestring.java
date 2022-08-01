@@ -22,11 +22,11 @@ public class reversestring {
 		System.out.println(sb2);
 		sb2.insert(2, "am");
 		System.out.println(sb2);
-//		for(i=len-1;i>=0;i--) {
-//			System.out.print(s.charAt(i));
-//			
-//			
-//		}
+		for(i=len-1;i>=0;i--) {
+			System.out.print(s.charAt(i));
+			
+			
+		}
 	
 	}
 
